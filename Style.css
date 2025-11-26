@@ -13,7 +13,6 @@
 .sidebar a {
   display: block;            /* 縦に並べる */
   margin-bottom: 10px;
-  color: #333;
   text-decoration: none;
 }
 
